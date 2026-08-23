@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Signaler une vulnérabilité en privé
+    url: https://github.com/onka-clients/.github/security/advisories/new
+    about: N'ouvrez pas d'enjeu public pour une vulnérabilité ou un secret.
